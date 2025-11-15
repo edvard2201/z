@@ -1,0 +1,5 @@
+a = input(2)
+b = input(3)
+c = input(4)
+d = input(5)
+print (a,b,c,d)
